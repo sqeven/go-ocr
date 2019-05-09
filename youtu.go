@@ -27,7 +27,7 @@ var (
 
 var (
 	//DefaultHost 默认host
-	DefaultHost = "http://api.youtu.qq.com"
+	DefaultHost = "https://api.youtu.qq.com"
 )
 
 //AppSign 应用签名鉴权
